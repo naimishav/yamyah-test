@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "719807015846",
+    "firebase_url": "https://yamyahtest-e8199.firebaseio.com",
+    "project_id": "yamyahtest-e8199",
+    "storage_bucket": "yamyahtest-e8199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719807015846:android:331778d1974e7c07",
+        "android_client_info": {
+          "package_name": "com.example.naimishav.yamyahtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719807015846-lidra1gk1muvlup1v4d8g9acvov4b8d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIG2qx1YnNeNtUl9YfbwY-AgIpDnOP5l0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
